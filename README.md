@@ -270,6 +270,8 @@ What do pipeline, node, agent, stage, and steps mean in the context of Jenkins?
    * Take the URL, and attach port 8080 and open it in a browser.
      ![image](https://github.com/user-attachments/assets/ba462c43-db83-42be-aae6-2842db642014)
 
+     goose
+
 ## Deliverable
 * A report containing both the discussion and design parts.
 * Your Github link and video links in the report.
